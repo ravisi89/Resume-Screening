@@ -1,7 +1,4 @@
 # Resume Screening API (FastAPI)
-
-This project is my submission for the **AI Engineering Intern Technical Assessment** — specifically **Option 2: Resume Screener**.
-
 The goal of this microservice is to analyze a raw resume text and return:
 
 1. **Extraction** – Candidate Name & Tech Stack  
@@ -121,5 +118,6 @@ http://127.0.0.1:8000/docs
     "matched_skills": ["python", "fastapi", "pytorch"]
   }
 }
+
 
 
